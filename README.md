@@ -1,3 +1,2 @@
-# almalibri
-Materiale per il webinar venerdì 11 giugno 2021, dove sarà presentata la banca dati.
-Per ogni informazione https://almalibri.it
+# Almalibri
+[Almalibri](https://almalibri.it) is the database of all syllabes and textbooks of Italian Universities. This repo collect various materials for further analysis. For more information write to info@almalibri.it. 
